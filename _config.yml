@@ -1,12 +1,12 @@
 # Site settings
-title: Finn's Site
+title: Finn Cavanagh
 email: f.c.cavanagh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:"fcavanagh_"
-github_username:"finncavanagh"
+twitter_username: fcavanagh_
+github_username:  finncavanagh
 
 # Build settings
 markdown: kramdown
