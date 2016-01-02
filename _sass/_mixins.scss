@@ -36,7 +36,7 @@
 		background-image: none;
 	}
 	&.disabled,
-	// &[disabled],
+	&[disabled],
 	fieldset[disabled] & {
 		&,
 		&:hover,
