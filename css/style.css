@@ -1,3 +1,6 @@
----
-layout: style
----
+.meProfile {
+  /*max-width: 200px;*/
+  border-radius: 50%;
+  height: 220px;
+  margin-bottom: 35px;
+}
